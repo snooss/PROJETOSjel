@@ -1,3 +1,15 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.container{
+    margin-left: 175px;
+    margin-top: 230px;
+    margin-bottom: 229px;
+    width: 404px;
+    height: 583;
+}
+
 #pass{
     display: inline;
 }
