@@ -1,5 +1,6 @@
 *{
     font-family: "Poppins", sans-serif;
+    font-weight: 500;
 }
 
 .container{
@@ -8,8 +9,98 @@
     margin-bottom: 229px;
     width: 404px;
     height: 583;
+
 }
 
-#pass{
-    display: inline;
+h1{
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: -10px;
+}
+
+h2{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 60px;
+}
+#forgot{
+    margin-left: 248px;
+    font-size: 10px;
+    box-sizing: border-box;
+}
+
+p{
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+
+#email{
+    border-radius: 10px;
+    border-style: solid;
+    opacity: 0.25;
+    width: 404px;
+    height: 32px;
+    font-size: 10px;
+    margin-bottom: 25px;
+}
+
+label{
+    font-size: 9px;
+}
+
+input{
+    border: px;
+    vertical-align: center;
+}
+
+button{
+    background-color: #3A5B22;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    width: 404px;
+    height: 32px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+a{
+    font-weight: 500;
+    color: #0F3DDE;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+#or{
+    text-align: center;
+    font-size: 9px;
+}
+
+span{
+    width: 190px;
+    height: 32px;
+    border: solid;
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 23px;
+}
+
+#noacc{
+    font-weight: 500;
+    width: 404px;
+    text-align: center;
+    margin-top: 22px;
+}
+
+img{
+    position: absolute;
+    margin-left: 750px;
+    width: 781px;
+    height: 1042px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
 }
